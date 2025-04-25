@@ -1,6 +1,6 @@
 相比于源库增加了仪表盘
 
-提供了一个较为实用的仪表盘，感谢@MengNianxiaoyao 作出的美观调整
+提供了一个较为实用的仪表盘，感谢@MengNianxiaoyao 作出的美观性调整
 
 ![image](https://github.com/Zuosizhu/Alas-with-Dashboard/assets/60862861/ee2e3e8f-9a19-417e-8e5f-441ecdee1ae6)
 
